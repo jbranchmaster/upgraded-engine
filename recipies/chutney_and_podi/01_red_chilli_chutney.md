@@ -10,8 +10,8 @@ Made of just 3 ingredients - red chilli , onion and salt. This chutney is eaten 
 - Remove the chilli stalk and add it to mixer
 - Add `1` to `1.25` spoons of salt to mixer
 - Blend above in mixer to a coarse mix
-- Cut onions into small pieces and add them to above mix
-- Grind them until it becomes a fine paster - red chilli seeds and onions are not to be seen
+- Cut onions into small pieces and add them to above coarse mix
+- Grind everything until it becomes a fine paster - red chilli seeds and onions are not to be seen
 
 # Serving 
  - Dosa - can be applied to it while cooking. Add little water to chutney so that its easier to apply.
