@@ -15,7 +15,7 @@ Very easy to make. We have this for dinner instead of breakfast.
 - Salt
 
 # Pre Preparation For Busy People 
-- The rava can be roasted in advance
+- The rava can be roasted in advance and stored for `20 to 30` days in air tight container
   
 # Preparation
  - Take little cooking oil into a vessel and heat it
