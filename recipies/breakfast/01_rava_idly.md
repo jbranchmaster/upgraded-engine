@@ -3,7 +3,7 @@
 Very easy to make. We have this for dinner instead of breakfast.
 
 # Core Ingredients
- - This makes `9` idlies
+ - This makes `11` idlies
  - `1.6` cup bombay rava
  - 1 to 1.5 cups of curd
  - seasoning
