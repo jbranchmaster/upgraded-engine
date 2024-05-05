@@ -10,7 +10,7 @@ Eaten as a side with rice and dal. Cooked with cast iron kadai.
    -  `salt` to taste
    -  `1tbsp` of `turmeric`
    -  `2tbsp` of `dhanya powder` (corriander powder)
-   -  `3tbsp` of `vgetable oil`. we used `groundnut oil`
+   -  `3tbsp` of `vegetable oil`. we used `groundnut oil`
    -  mix all and refrigerate the marinate
  - For cooking on pressure cooker
    - same type `vegetable oil` used for marination. `2 tbsp` oil. heat it first
@@ -29,7 +29,7 @@ Eaten as a side with rice and dal. Cooked with cast iron kadai.
  - after marination , add mutton to cooker
  - let the cooker cool down and proceed with frying
  - for frying
-    - take `oil` and heat it
+    - take `oil` into `kadai` and heat it
     - add `curry` leaves and let them cook
     - add `green chilles` and `red chilles` and let them cook
     - add `ginger garlic` paste and cook until the raw smell goes off
