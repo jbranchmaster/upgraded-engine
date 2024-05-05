@@ -37,7 +37,7 @@ Eaten as a side with rice and dal. Cooked with cast iron kadai.
     - cook on `medium` flame with frequent stirring and without lid
     - it takes `15 to 20` mins for the `water` to evaporate
     - when we can see the `oil` , add `1tbsp` of `garam masala` and fry till masala cooks
-    - at the end , add `1 sprig` of `curry leaves` and `2 sprig` `corriander leaves` for garnishing
+    - add `1 sprig` of `curry leaves` and `2 sprig` `corriander leaves` for garnishing and switch off the stove
 
 
 # Acknowledgement
