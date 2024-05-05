@@ -34,7 +34,7 @@ Eaten as a side with rice and dal. Cooked with cast iron kadai.
     - add `green chilles` and `red chilles` and let them cook
     - add `ginger garlic` paste and cook until the raw smell goes off
     - now add the `mutton` from cooker , along with the water
-    - cook on `medium` flame with freqient stirring and without lid
+    - cook on `medium` flame with frequent stirring and without lid
     - it takes `15 to 20` mins for the `water` to evaporate
     - when we can see the `oil` , add `1tbsp` of `garam masala` and fry till masala cooks
     - at the end , add `1 sprig` of `curry leaves` and `2 sprig` `corriander leaves` for garnishing
