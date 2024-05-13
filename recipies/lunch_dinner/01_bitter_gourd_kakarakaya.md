@@ -3,7 +3,7 @@ Eaten as a curry with rice and dal. This method does not de-seed , so the fry it
 
 # Core Ingredients
  - Serves `3` people for a single meal
- - `3` medium bitter gourd. wash them with water , you can also scrub the exterior gently with hands so that the exterior projects go off. next cut the ends & cut them into slices. If they are reddish inside , they are ripening , but can be still eaten.
+ - `3` medium bitter gourd. wash them with water , you can also scrub the exterior gently with hands so that the exterior projections go off. next cut the ends & cut them into slices. If they are reddish inside , they are ripening , but can be still eaten.
  - masala prep using mixer (can be made while the bitter gourd is cooking)
     - take `1 or 2` spoons of jeera and grind well
     - add `1 spoon red chilli powder` and grind well
