@@ -23,6 +23,7 @@ Eaten as a side with rice and dal. Cooked with cast iron kadai.
     - `4` red chilli . tear them into `3 or 4` pieces
     - `1tbsp` of `ginger and garlic` paste
     - `1 sprig` of `curry leaves` and `2 sprig` `corriander leaves` for garnishing
+    - `garam masala`
    
 # Preparation
  - start with marination
