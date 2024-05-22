@@ -18,11 +18,11 @@ Eaten with plain rice. Can also add chips or omleltte as a side. Bendakaya is La
 # Preparation
 - take `3 to 4` tbs spoon oil into a pan or vessel and heat it
 - add `garlic` and wait for slight colour change
-- add `onion` and cook for a bit. let onions become little translucent and not more
-- add `tomato` and cook for a bit. the rawness of tomato should go away
-- add `turmeric and salt`. since we add tamarid , this takes little more salt
+- add `onion` and cook for a bit. let onions become little translucent and not more cooked
+- add `tomato` and cook for a bit such that rawness of tomato should go away
+- add `turmeric and salt`. since we add tamarid and tomato , this dish may need little more salt
 - add `lady's finger` and saute on high flame for `2-3mins`. at this stage we can see stickiness between cut pieces by appearance of a thread like structure between pieces
-- if you see that the contents are sticking , add little more oil or add very little water 
+- if you see that the contents are sticking to the bottom of pan , add little more oil or add very little water 
 - switch to low flame and cook with closed lid untill the stickiness goes away. this takes `10-15 minutes`
 - now open the lid and add `tamarind` and `green chillies` and cook for `2-3 minutes`. the `tamarind` can be added along with its soaked water. to make it easier while eating , crush the pulp and remove the hard pulp before adding.
 - now add `300ml` water and close the lid and cook for `10-12 minutes` on low flame
