@@ -12,14 +12,26 @@ List if tips and skills which can improve cooking at home.
 - Prepare a mental plan about how and what you are going to cook.
 - Know how heat affects your ingredients. Get an idea of different phases of `heat + ingredient`. This will help you undertand if a recipe undercooked vs over cooked.
 
+## Know your Equipment
+- Not all kitchens and utensils are the same. Know them before you start cooking.
+- Way of cooking can be different with different materials, e.g clay pot vs non-stick pan vs cast-iron pan.
+- Even for a certain material , the shape of the cookware can make a difference.
+- Cooking on large burner is different from cooking on small burner.
+
 ## Making Variations
-- Over the course of time , learn to adjust your recipies to your taste. There's no compulsion to follow a specific recipe.
-- Common variables to change recipes are cuts, 
+- Over the course of time , learn to adjust your recipies to your taste. There's no compulsion to follow a specific instructions for recipe.
+- Variations usally keep the core ingredients same and change other variables , e.g cuts size, spices, chillies, using high or low flame for certain steps.  
+
+## Cooking at Scale
+- There's lot of difference between cooking less and cooking more.
+- Certain things may (or) may not be directly proportional , e.g water , spices , etc
+- Certain things that are directly propotional are ingredients and cooking vessels
+  
 
 ## Improvements
 - After preparing an item ,take feedback from others .
 - Make note your observations and improve the next time you cook.
-- In addtion to Youtube, etc , consider taking a cooking class.
+- In addtion to Youtube, Books etc , consider taking a cooking class.
 
 
 # Inspiration
