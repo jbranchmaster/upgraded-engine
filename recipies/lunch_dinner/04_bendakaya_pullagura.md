@@ -27,7 +27,8 @@ Eaten with plain rice. Can also add chips or omleltte as a side. Bendakaya is La
 - now open the lid and add `tamarind` and `green chillies` and cook for `2-3 minutes`. the `tamarind` can be added along with its soaked water. to make it easier while eating , crush the pulp and remove the hard pulp before adding.
 - now add `300ml` water and close the lid and cook for `10-12 minutes` on low flame
 - cook until most of the water evaporates. it should neither look like gravy(watery extreme) nor look like fry (no water extreme). it should be in a state where if you turn the contents around you will notice water
-- now stake it off stove and smash the contents - mainly focus on `lady's finger`
+- now stake it off stove and smash the contents - mainly focus smashing `lady's finger`
+- now proceed with seasoning
 - seasoning `pan #2`
     - heat `oil` in a pan
     - add `mustard seeds` and let it sputter
