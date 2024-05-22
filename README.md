@@ -1,5 +1,6 @@
 # Introduction
 
+Notes on cooking at home. This primarily consists of Indian recipies. 
 
 # What Can Improve Cooking Skills At Home
 
