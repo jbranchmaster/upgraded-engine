@@ -3,9 +3,10 @@
 
 # What Can Improve Cooking Skills At Home
 
-List if tips and skills which can improve cooking at home.
+List of tips and skills which can improve cooking at home.
 
 ## Ingredients and Pre-work
+-  Have a meal plan ready for the whole week. Breakfast , Lunch , Dinner and snacks , etc. Think of each meal as a meeting , its very helpful if you are prepared for 21 meetings well in advance (`3meals*7days`).
 - `Using Fresh ingredients`
 - `A good chef knife` acommpanied by `cutting skills` to chop ingredients faster and evenly. Even chopping results in uniform cooking.
 - `Mise en place ` - doing the prep work like arranging the ingredients, etc before begining to cook. If you are looking to save time while cooking , this is the place to start.
