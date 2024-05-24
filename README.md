@@ -20,7 +20,7 @@ List of tips and skills which can improve cooking at home. Skills are perishable
 - Cooking on large burner is different from cooking on small burner.
 
 ## Worthy Investments
-- `A good chef knife` acommpanied by `cutting skills` to chop ingredients faster and evenly. Even chopping results in uniform cooking.
+- `A good chef knife` accompanied by `cutting skills` to chop ingredients faster and evenly. Even chopping results in uniform cooking.
 
 ## Making Variations
 - Over the course of time , learn to adjust your recipies to your taste. There's no compulsion to follow a specific instructions for recipe.
