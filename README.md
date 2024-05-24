@@ -4,7 +4,7 @@ Notes on cooking at home. This primarily consists of Indian recipies.
 
 # What Can Improve Cooking Skills At Home
 
-List of tips and skills which can improve cooking at home.
+List of tips and skills which can improve cooking at home. Skills are perishable , so cook often to get better at it. This should be mindful exercise ,e.g aim at getting the same taste for every meal , improving the cooking speed , etc. 
 
 ## Ingredients and Pre-work
 -  Have a meal plan ready for the whole week. Breakfast , Lunch , Dinner and snacks , etc. Think of each meal as a meeting , its very helpful if you are prepared for 21 meetings well in advance (`3meals*7days`).
