@@ -25,7 +25,7 @@ Eaten with rice when suffering fever or cold.
    - then take the `tomatoes` into another bowl, remove the skin(transfer skin into the 1st bowl) and crush them well. any whitish pulp from the tomato can be discarded
    - now crush the tamarind and the tomato skin in the first bowl. discard the skin and tamrind pulp
    - now filter the contents of the first bowl into the 2nd bowl
-   - **salt tasting and rasam quantuty check stage** at this stage , we can taste for salt and also rasam quantity and add more if needed. 
+   - **salt tasting and rasam quantuty check stage** ; we can taste for salt and also rasam quantity and add more if needed. 
    - `crush pepper & garlic` in mortar and pestle and add to 2nd bowl
    - add `cut corriander leaves` and `curry leaves`
    - now boil the `2nd bowl` on low flame untill the contents come to boil and we can smell pepper
