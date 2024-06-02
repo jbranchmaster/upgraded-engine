@@ -16,10 +16,10 @@ Eaten with rice when suffering fever or cold.
 
 # Preparation
  - Core Rasam
-   - take a bowl and add `water` (little less than the needed rasam quantity)
+   - take a bowl(1st bowl) and add `water` (little less than the needed rasam quantity)
    - add `salt` and `turmeric powder`
    - `cut tomatoes into two halves` and add into the bowl
-   - cook them for a while . after sometime , turn the tomatoes so that they cook evenly
+   - cook them for a while. no need to close with lid. after sometime , turn the tomatoes so that they cook evenly
    - switch off the stove and add `tamrind`
    - let it cool down
    - then take the `tomatoes` into another bowl, remove the skin(transfer skin into the 1st bowl) and crush them well. any whitish pulp from the tomato can be discarded
