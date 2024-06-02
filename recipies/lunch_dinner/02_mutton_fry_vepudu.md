@@ -17,7 +17,7 @@ Eaten as a side with rice and dal. Cooked with cast iron kadai or non-stick pan.
    - add `marinated` mutton
    - `300ml` water. this is a ball park estimate. we will again roast the mutton , so adding too much in this step increases the cooking time in next steps.
    - `4 to 5 max` whistles on medium flame should be enough. 
-   - **as a modification, after adding the marinated mutton , we can cook until water from mutton comes out, and then follow the next steps from adding water**
+   - **as a modification, after adding the marinated mutton , we can cook on high flame until water from mutton comes out, and then follow the next steps from adding water**
  - For frying (used cast-iron kadai) ; we can use non-stick also
     - `2 sprigs` of `curry leaves`
     - `3 green chilli` . cut them into two halves and then slit them
