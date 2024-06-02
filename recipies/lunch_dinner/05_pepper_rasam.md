@@ -12,7 +12,7 @@ Eaten with rice when suffering fever or cold.
  - `2-3 garlic cloves`. no need to peel them
  - `1 sprig` corriander leaves (optional). can just cut them with fingers
  - `2-3 curry leaves`
- - `Ghee , Mustard seeds and Red Chilli` for seasoning
+ - `Ghee , few Mustard seeds and 1 Red Chilli` for seasoning
 
 # Preparation
  - Core Rasam
