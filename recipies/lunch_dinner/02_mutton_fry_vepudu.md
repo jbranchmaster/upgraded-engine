@@ -13,10 +13,11 @@ Eaten as a side with rice and dal. Cooked with cast iron kadai.
    -  `3tbsp` of `vegetable oil`. we used `groundnut oil`
    -  mix all and refrigerate the marinate
  - For cooking on pressure cooker
-   - same type `vegetable oil` used for marination. `2 tbsp` oil. heat it first
+   - same type `vegetable oil` used for marination. `2 tbsp` oil. heat it first. since we already add oil in marination and also mutton may have fat , we dont need so much oil.
    - add `marinated` mutton
-   - `300ml` water
-   - `4 to 5` whistles on medium flame if overnight marination ; `upto 6 ` whistles if marinated for `2 hours` 
+   - `300ml` water. this is a ball park estimate. we will again roast the mutton , so adding too much in this step increases the cooking time in next steps.
+   - `4 to 5 max` whistles on medium flame should be enough. 
+   - **as a modification, after adding the marinated mutton , we can cook until water from mutton comes out, and then follow the next steps from adding water**
  - For frying (used cast-iron kadai) ; we can use non-stick also
     - `2 sprigs` of `curry leaves`
     - `3 green chilli` . cut them into two halves and then slit them
@@ -27,13 +28,13 @@ Eaten as a side with rice and dal. Cooked with cast iron kadai.
    
 # Preparation
  - start with marination
- - after marination , add mutton to cooker
+ - after marination , add mutton to cooker or **read the modification step**
  - let the cooker cool down and proceed with frying
  - for frying
     - take `oil` into `kadai` and heat it
     - add `curry` leaves and let them cook
     - add `green chilles` and `red chilles` and let them cook
-    - add `ginger garlic` paste and cook until the raw smell goes off
+    - add `ginger garlic` paste and cook until the raw smell goes off. this will sputter and can also stick to pan. 
     - now add the `mutton` from cooker , along with the water
     - cook on `medium` flame with frequent stirring and without lid
     - it takes `15 to 20` mins for the `water` to evaporate
