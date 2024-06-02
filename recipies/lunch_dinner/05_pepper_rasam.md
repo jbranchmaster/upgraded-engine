@@ -4,7 +4,7 @@ Eaten with rice when suffering fever or cold.
 
 # Core Ingredients
  - recepie is for `one person` . scale up tomatoes per person and other spices as needed
- - `Ripe tomatoes` . they should be ideally red even from the stalk area. `1` small tomato is enough for one person. 
+ - `Ripe tomatoe` . they should be ideally red even from the stalk area. `1` small tomato is enough for one person. 
  - `Salt` to taste
  - `Turmeric Powder`
  - `1 inch tamrind`
