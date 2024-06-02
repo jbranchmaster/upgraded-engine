@@ -1,5 +1,5 @@
 # Mutton Fry
-Eaten as a side with rice and dal. Cooked with cast iron kadai.
+Eaten as a side with rice and dal. Cooked with cast iron kadai or non-stick pan. No onions needed.
 
 # Core Ingredients
 - Serves `4` people for `500g mutton`. the ingredients are for `500gm` mutton
