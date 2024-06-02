@@ -29,7 +29,11 @@ List of tips and skills which can improve cooking at home. Skills are perishable
 ## Cooking at Scale
 - There's lot of difference between cooking less and cooking more.
 - Certain things may (or) may not be directly proportional , e.g water , spices , etc
-- Certain things that are directly propotional are ingredients and cooking vessels
+- Certain things that are directly propotional are ingredients and cooking vessels.
+
+
+## Things that are OKAY
+ - You may not be able to cook certain recipies how much every you try.
   
 
 ## Improvements
