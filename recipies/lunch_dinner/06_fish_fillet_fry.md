@@ -15,7 +15,7 @@ Eaten with rice and dal or as a starter with french fries. Easy to prepare , jus
    - `salt` 
    - `red chilli powder`
    - 1 tbsp `rice flour`
-   - 1 tbps `corn flour (maida)`
+   - 1 tbsp `corn flour (maida)`
    - `lemon juice` (added at last)
 
   # Preparation
