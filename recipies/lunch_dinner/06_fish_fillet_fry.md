@@ -24,6 +24,6 @@ Eaten with rice and dal or as a starter with french fries. Easy to prepare , jus
    - Add `1 tbsp of corn flour and rice flour` and mix well to form a uniform paste
    - Add `lemon juice`
    - Apply the marinate to the fish fillet on both sides and marinate for `1 hour in refrigerator`
-   - For cooking take `2-3 tbsp` oil and heat it in the pan
+   - For cooking take `3-4 tbsp` oil and heat it in the pan
    - Add the marinated fish fillet and let each side cook for about `5-7 minutes` on low flame. flip the sides as needed
    - Cook to ensure that the masala cooks well and the raw masala smell goes off.
