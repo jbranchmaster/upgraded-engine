@@ -16,7 +16,7 @@ Made with vermicelli . We use Bambino Vermicelli , which is manufactured by Bamb
 -  1 sprig `curry leaves`
 
 # Pre Preparation For Busy People
-Vermicelli can be roasted the night before and stored in room temperature 
+Vermicelli can be roasted the night before and stored in room temperature. ensure it cools down before closing with a lid.
 
 # Preparation
 
@@ -25,6 +25,7 @@ Vermicelli can be roasted the night before and stored in room temperature
   - Actively roast the Vermicelli untill it turns brown
   - Keep mixing it well so that the bottom portion is not over-roasted
   - Keep it aside (take it into another plate)
+  - **time saver tip - heat water while you are cutting the vegetables so that it saves around 5-8 minutes**
 
  ## Rest of the preparation
 
@@ -36,7 +37,7 @@ Vermicelli can be roasted the night before and stored in room temperature
     - add `curry leaves`
     - add `carrot` and roast a bit
     - add `green peas` (without water) and cook a bit
-    - add `water` , `salt` and switch to medium flame and close the vessel with a lid.
+    - add `water` , `salt` and switch to medium flame and close the vessel with a lid. 
     - let the contents come to a `boiling state`. takes about `~12 minutes`
     - now add the `roasted Vermicelli` and cook on `medium to high flame` with closed lid . do not cook on low flame at all.
     - in `10-15 minutes`, the dish would have cooked. you can confirm this by seeing the absense of water. if needed , at an interval of `5 to 8 minutes` mix contents once and continue cooking with closed lid.
