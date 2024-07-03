@@ -6,10 +6,10 @@ Eaten as a side with rice and dal. Cooked with cast iron kadai or non-stick pan.
 - For marination ; original recipe calls for overnight marination. we can marinate for 2 hours if time is constraint
    - washed `500 grams mutton`
    -  `2 tbsp` of  `red chilli powder`
-   -  `1 tbsp` of `ginger and garlic` paste
+   -  `2tbsp` of `dhanya powder` (corriander powder)
    -  `salt` to taste
    -  `1tbsp` of `turmeric`
-   -  `2tbsp` of `dhanya powder` (corriander powder)
+   -  `1 tbsp` of `ginger and garlic` paste
    -  `3tbsp` of `vegetable oil`. we used `groundnut oil`
    -  mix all and refrigerate the marinate
  - For cooking on pressure cooker
