@@ -1,5 +1,5 @@
 # Methi Mushroom Curry
-This goes well as a curry with bagara rice or chapathi.
+This goes well as a curry with bagara rice or chapathi. Takes 1 to 1.5 hours to prepare.
 
 # Core Ingredients
  - Serves `4` light eaters
