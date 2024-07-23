@@ -14,7 +14,7 @@ Vangibath rice is prepared from Vangibath powder and long purple brinjal vegetab
  - 1 `red chilli`, split this into two pieces
  - 1 tea spoon `urad dal` and `chenna dal`
  - 1 spring `curry leaves`
- - cooking oil
+ -  `sunflower` cooking oil
 
 # Preparation
  - Initially prepare white rice for `3` light eaters. Once rice cools down, we cam mix well so that no lumps are formed. also add salt to taste.
