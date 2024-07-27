@@ -5,11 +5,12 @@ Eaten with plain rice or jeera rice. Some also like to have it with roti.
 # Core Ingredients
  - Serves `3` light eaters
  - 3 spoons `curd`. curd should be room temperature before cooking
- - 1.5 spoons `besan/gram flour/ channa dal flour`. ratio of `curd:besan` is approximately upto a max of 1:0.5
+ - 1.5 spoons `besan/gram flour/ channa dal flour`. ratio of `curd:besan` is approximately upto a max of 1:0.5 **if at all you need to add more besan and curd, mix them together and then add it**
+ - I add around 100 grams curd and 50 grams besan for 3 people.
  - 1 to 1.5  tbsp `red chilli powder`
  - 1 tea spoon `turmeric`
- - `salt` to taste
- - 1 small `onion`. chop them into small pieces
+ - `salt` to taste. this dish takes in little more salt than usual.
+ - 1 small `onion`. chop them into small pieces. small pieces are better.
  - 2 `green chillies`. chop them into small pieces
  - few `mustard seeds`
  - 1 tea spoon `jeera seeds`
@@ -21,7 +22,7 @@ Eaten with plain rice or jeera rice. Some also like to have it with roti.
   - take `curd` into a bowl and mix well so that there are no lumps
   - add `besan` and mix well so that there are no lumps
   - add `salt, turmeric powder and red chilli powder` and mix well so that there are no lumps
-  - add `water`. 100-150ml should be enough per 1 light eater
+  - add `water`. 100-150ml should be enough per 1 light eater. I add around 350ml for 3 people and 400ml for 4 people.
   - if the curd is cold, let this slurry cool down before boiling
 - Boiling curd slurry
   - take  2 or 3 tbsp `oil` into a vessel and heat it
