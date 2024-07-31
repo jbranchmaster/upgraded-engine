@@ -33,7 +33,7 @@ List of tips and skills which can improve cooking at home. Skills are perishable
 
 
 ## Things that are OKAY
- - You may not be able to cook certain recipies how much every you try.
+ - You may not be able to cook certain recipies how much every you try. In such cases, look for any varations that suit the recipe or consider learning from soneone who cooks that well.
   
 
 ## Improvements
