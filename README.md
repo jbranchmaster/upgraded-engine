@@ -43,4 +43,4 @@ List of tips and skills which can improve cooking at home. Skills are perishable
 
 
 # Inspiration
-- [The Sad Bastard Cookbook](https://nightbeatseu.ca/works/the-sad-bastard-cookbook/) . Although the book is for American cuisine , its presentation is very simple and easy to understand . The book can be [downloaded](here)
+- [The Sad Bastard Cookbook](https://nightbeatseu.ca/works/the-sad-bastard-cookbook/) . Although the book is for American cuisine , its presentation is very simple and easy to understand . The book can be [downloaded here]([here](https://nightbeatseu.ca/works/the-sad-bastard-cookbook/))
