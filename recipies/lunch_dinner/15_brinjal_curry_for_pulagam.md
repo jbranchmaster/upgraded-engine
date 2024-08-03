@@ -11,6 +11,7 @@ This curry is good for pulagam and also rice and rasam.
     - 1 tablespoon `dry coconut piece` (coconut piece should be little more than the tablespoon). do not use raw coconut.
     - 1 tablespoon `salt` and `red chilli powder`
     - 1 teaspoon `turmeric`
+    - 0.75 teaspoon `dhanya powder`
 - for seasoning
    - 1 tablespoon `sunflower oil` or any cooking oil
    - 1 `teaspoon `mustard seeds`
