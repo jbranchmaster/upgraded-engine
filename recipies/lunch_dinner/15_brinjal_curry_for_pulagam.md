@@ -29,4 +29,5 @@ This curry is good for pulagam and also rice and rasam.
 - Add chopped `tomato` pieces and cook until rawness smell goes away
 - Add `150-200 ml` water or water until the brinjal pieces are submerged and cook with closed lid until curry cooks.
 - In between , when the water level gas receeded, add little `jaggery` and mix well. **salt and chilli testing stage using gravy**
-- We will know its cooked when `brinjal` appears smashed and pulpy and also all the water woild have evaporated.
+- When there is 25% water , gentlt mash the bringal such that they just change their shape and not become paste.
+- Cook for 2-3 more minutes and turn off the stove
