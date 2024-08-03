@@ -17,6 +17,7 @@ This curry is good for pulagam and also rice and rasam.
    - 1 `teaspoon `mustard seeds`
    - 1 small `red chill`
    - 1 sprig `curry leaves`
+- little `jaggery`
  
 # Preparation
 
@@ -26,5 +27,6 @@ This curry is good for pulagam and also rice and rasam.
 - Add `curry leaves` and let it cook a bit
 - Add chopped `brinjal` and along with that add `masala` and cook until rawness smell goes away
 - Add chopped `tomato` pieces and cook until rawness smell goes away
-- Add `150-200 ml` water and cook with closed lid until curry cooks.
+- Add `150-200 ml` water or water until the brinjal pieces are submerged and cook with closed lid until curry cooks.
+- In between , when the water level gas receeded, add little `jaggery` and mix well. **salt and chilli testing stage using gravy**
 - We will know its cooked when `brinjal` appears smashed and pulpy and also all the water woild have evaporated.
