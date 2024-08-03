@@ -27,4 +27,4 @@ This curry is good for pulagam and also rice and rasam.
 - Add chopped `brinjal` and along with that add `masala` and cook until rawness smell goes away
 - Add chopped `tomato` pieces and cook until rawness smell goes away
 - Add `150-200 ml` water and cook with closed lid until curry cooks.
-- We will know its cooked when `brinjal` appears smashed and pulpy.
+- We will know its cooked when `brinjal` appears smashed and pulpy and also all the water woild have evaporated.
