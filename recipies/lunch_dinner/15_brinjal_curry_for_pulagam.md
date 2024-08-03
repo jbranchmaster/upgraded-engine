@@ -7,8 +7,8 @@ This curry is good for pulagam and also rice and rasam.
  - 4 small or 3 medium `brinjal`. cut them into vertical half and them make equal vertical `3 pieces`. keep them aside in a bowl with salt water
  - 1 medium tomato. chop them into small pieces
  - for masala, add below to mixer. do not add water
-    - 1 tablespoon `black Sesame seeds`
-    - 1 tablespoon `dry coconut pieces`. do not use raw coconut
+    - 1 tablespoon `black Sesame seeds`. if stored in fridge, bring them to room temperature and dry roast them.
+    - 1 tablespoon `dry coconut piece` (coconut piece should be little more than the tablespoon). do not use raw coconut.
     - 1 tablespoon `salt` and `red chilli powder`
     - 1 teaspoon `turmeric`
 - for seasoning
