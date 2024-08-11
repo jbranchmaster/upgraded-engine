@@ -23,5 +23,6 @@ Eaten along with plain white rice.
  - Add the water with soaked tamarind. we can remove the pulp and add only the water
  - Add about 400ml of water (total 450ml) water will be sufficient
  - Add `green chilli, chopped onion, turmeric powder and salt` and swith on the stove and cook on medium to high flame with closed lid
+ - Bring the contents to a boil and let them cook for 10-12 minutes
  - **do not mix the contents using spatula/spoon directly only shake the vessel to mix the contents** 
 
