@@ -14,5 +14,13 @@ Eaten along with plain white rice.
    - 5 `Fenugreek seeds` 
    - **After cooling add them to a mixer and make it fine powder** and then add `ginger, garlic and coconut` and make it fine paste.
  - Soak about 2 inch `tamarind` in water
+ - 1 teaspoon `turmeric` powder
+ - 1-2 `green chilli`, cut them into two halves
+ - 1 small `onion` chop them into small pieces
 
+# Preparation 
+ - Apply the masala paste to `fish pieces`
+ - Add the water with soaked tamarind. we can remove the pulp and add only the water
+ - Add about 400ml of water (total 450ml) water will be sufficient
+ - Add `green chilli, chopped onion, turmeric powder and salt` and swith on the stove and cook on medium to high flame with closed lid
 
