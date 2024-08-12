@@ -2,11 +2,11 @@
 Eaten along with plain white rice.
 
 # Core Ingredients
- - This recipe uses 805grams(vessel + fish)
+ - This recipe uses 400grams fish
  - 4 pods `garlic`
  - 1 inch `ginger`
- - 50-60 grams of **Raw coconut only**
- - Masala prep. Heat a pan and dry roast these and let them cool.
+ - 50-60 grams of **Raw coconut only**. chop them into smaller pieces and keep them aside
+ - Masala prep. Heat a pan and & dry roast these after turning off the heat and let them cool.
    - 4-5 `red chillies`
    - 1 teaspoon `black pepper`
    - 1 teaspoon `dhanya / coriander seeds`
