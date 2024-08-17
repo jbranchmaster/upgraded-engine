@@ -3,22 +3,22 @@
 Vangibath podi is used to prepare vangibath , a rice based dish with brinjal.
 
 
-# Ingredients
-- Red Chillies
-- Cloves
-- Cinnamon
-- Green Elachi
-- Nutmeg
-- Star Anise
-- Marathi Moggu
-- Dry Ginger
-- Bay leaf
-- Raathi Puvvu / Patthar Ke Phool
-- Shahjeera
-- Japatri flower/whole mace
-- Saunf
-- Dhanya seeds
-- Gasalu / Poppy Seeds
+# Ingredients (what we used)
+- Red Chillies (15pieces / 5grams)
+- Cloves(6 pieces)
+- Cinnamon(3*1 inch pieces)
+- Green Elachi(5 pieces)
+- Nutmeg(25% of a piece)
+- Star Anise(1 whole piece)
+- Marathi Moggu(1 piece)
+- Dry Ginger(1*1 inch piece)
+- Bay leaf(1 whole leaf)
+- Raathi Puvvu / Patthar Ke Phool(1 teaspoon which us around 6 pieces)
+- Shahjeera(1 teaspoon)
+- Japatri flower/whole mace (3 pieces / 33% of a whole piece)
+- Saunf(1 tablespoon/ 3 grams)
+- Dhanya seeds(8-10 grams)
+- Gasalu / Poppy Seeds(1 tea spoon)
 
   # Preparation
   - Take 1 tbsp oil into a handi and heat it. we sunflower oil and a stainless steel handi
