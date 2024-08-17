@@ -22,7 +22,7 @@ Vangibath podi is used to prepare vangibath , a rice based dish with brinjal.
 
   # Preparation
   - Take 1 tbsp oil into a handi and heat it. we sunflower oil and a stainless steel handi
-  - for each of the ingredients, heat them, wait until its roasted, then remove it from the handi and keep it aside.
+  - for each of the ingredients step, heat them, wait until its roasted, then remove it from the handi and keep it aside.
   - add `red chillies` and wait for them to change colour. if they break and the seeds are in oil, remove them. disacard seeds if they ae burnt
   - add `cloves, cinnamon & elachi`. `elachi` will become little big
   - add `nutmeg, star anise, marathi moggu` and roast for `5 seconds`
