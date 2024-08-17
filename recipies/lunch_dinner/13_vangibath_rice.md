@@ -18,10 +18,10 @@ Vangibath rice is prepared from Vangibath powder and long purple brinjal vegetab
 
 # Preparation
  - Initially prepare white rice for `3` light eaters. Once rice cools down, we cam mix well so that no lumps are formed. also add salt to taste.
- - Take cooking 4 to 5 tea spoons oil into a cooking vessel and bring it to boil
+ - Take cooking 5 to 6 tea spoons oil into a cooking vessel and bring it to boil
  - Add `mustard seeds` and let them sputter
  - Next add  `channa dal and urad dal` and cook them a bit
- - Next add the split `red chilli` and cook until `channa dal and urad dal` change colour and become little dark
+ - Next add the split `red chilli` and cook until `channa dal and urad dal` change colour and become little dark **noticed that it will change colour in the subsequent steps too, so no need for complete colour change**
  - Next add `curry leaves`, `brinjal pieces` and `turmeric and salt`
  - Close the vessel with a lid and cook on smmall flame until the brinjal pieces begin to cook. they will become translucent and reduce in size a bit
  - Now remove the lid and cook on high flame so that the `brinjal` becomes fried - reduce further in size and turn into `dark brownish`
