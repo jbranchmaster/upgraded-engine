@@ -9,13 +9,12 @@ Eaten as a side with rice and dal. Cooked with cast iron kadai or non-stick pan.
    -  `2tbsp` of `dhanya powder` (corriander powder)
    -  `salt` to taste
    -  `1tbsp` of `turmeric`
-   -  `1 tbsp` of `ginger and garlic` paste
-   -  `3tbsp` of `vegetable oil`. we used `groundnut oil`
+   -  `2tbsp` of `vegetable oil`. we used `groundnut oil`
    -  mix all and refrigerate the marinate
  - For cooking on pressure cooker
    - same type `vegetable oil` used for marination. `2 tbsp` oil. heat it first. since we already add oil in marination and also mutton may have fat , we dont need so much oil.
    - add `marinated` mutton
-   - upto max of `150-250ml` water. this is a ball park estimate. we will again roast the mutton , so adding too much in this step increases the cooking time in next steps.
+   - upto max of `150-200ml` water. this is a ball park estimate. we will again roast the mutton , so adding too much in this step increases the cooking time in next steps.
    - `3 to 4 max` whistles on medium flame should be enough. 
    - **as a modification, after adding the marinated mutton , we can cook on high flame until water from mutton comes out, and then follow the next steps from adding water(good if we can add hot water)**
  - For frying (used cast-iron kadai) ; we can use non-stick also
