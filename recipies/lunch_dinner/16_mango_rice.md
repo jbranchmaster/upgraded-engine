@@ -20,7 +20,7 @@ This recipe can be taken for lunch.
  - Take 3-4 tablespoons of groundnut oil into a vessel and heat it. this recipe needs more oil for mango to cook
  - Add `mustard seeds` and let it sputter
  - Add `jeera seeds` and `red chilli` and cook for few seconds
- - Add `cashews` and wait for them to slightly change their colour. ** these change colour quikcly(~10 seconds), so be ready with next steps**
+ - Add `cashews` and wait for them to slightly change their colour. **these change colour quikcly(~10 seconds), so be ready with next steps**
  - Add `curry leaves`
  - Add `ingua /asafoetida` and cook for few seconds by mixing the contents
  - Add `green chillies` and wait for them to turn whitish / until they cook
