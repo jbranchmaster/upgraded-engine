@@ -15,5 +15,12 @@ Cake made using ripe bananas
 
 ## Optional Ingredients
  - 5 `almonds` and  10 `half cashwes`. dry roast them and keep aside
- - 6 `raisins`
+ - 8 `raisins`
+
+
+# Preparations
+- Follow each one in the order
+- Use a wide vessel for preparation
+- Peel the `banana` and crush them into paste using spoon or a fork. the finer , the better
+- Now add `sugar` and mixx well so that sugar is dissolved. we can go with 120grams of sugar as well. 
 
