@@ -25,7 +25,7 @@ Eaten with plain rice. Can also add chips or omleltte as a side. Bendakaya is La
 - if you see that the contents are sticking to the bottom of pan , add little more oil or add very little water 
 - switch to low flame and cook with closed lid untill the stickiness goes away. this takes `10-15 minutes`
 - now open the lid and add `tamarind` and `green chillies` and cook for `2-3 minutes`. the `tamarind` can be added along with its soaked water. to make it easier while eating , crush the pulp and remove the hard pulp before adding.
-- now add `300ml` water and close the lid and cook for `10-12 minutes` on low flame
+- now add `300ml` water and close the lid and cook for `10-12 minutes` on low flame **adjust water if you added more water with tamrind juice**
 - cook until most of the water evaporates. it should neither look like gravy(watery extreme) nor look like fry (no water extreme). it should be in a state where if you turn the contents around you will notice water
 - now stake it off stove and smash the contents - mainly focus smashing `lady's finger` . **salt tasting stage**
 - now proceed with seasoning
