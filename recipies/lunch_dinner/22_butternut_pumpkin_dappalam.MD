@@ -9,6 +9,7 @@ Eaten along with rice and plain dal (mudda pappu).
  - upto 4 tablespoons cooking oil
  - 2 `green chillies`
  - 1 sprig `curry leaves`
+ - 1 teaspoon `mustard seeds`
  - 1 teaspoon `hing powder`
  - 1 teaspoon `turmeric powder`
  - 1 teaspoon `r.c powder` **optional**
