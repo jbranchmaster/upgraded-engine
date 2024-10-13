@@ -3,21 +3,21 @@ Eaten as a side with rice and dal. Cooked with cast iron kadai or non-stick pan.
 
 # Core Ingredients
 - Serves `4` people for `500g mutton`. the ingredients are for `500gm` mutton
-- For marination ; original recipe calls for overnight marination. we can marinate for 2 hours if time is constraint
-   - washed `500 grams mutton`
+- For marination, the original recipe calls for overnight marination. however we can marinate for 2 hours if time is a constraint
+   - washed `500 grams mutton` and add below items
    -  `2 tbsp` of  `red chilli powder`
    -  `2tbsp` of `dhanya powder` (corriander powder)
    -  `salt` to taste
    -  `1tbsp` of `turmeric`
-   -  `2tbsp` of `vegetable oil`. we used `groundnut oil`
+   -  `2tbsp` of `vegetable oil`. I use `groundnut oil`
    -  mix all and refrigerate the marinate
  - For cooking on pressure cooker
-   - same type `vegetable oil` used for marination. `2 tbsp` oil. heat it first. since we already add oil in marination and also mutton may have fat , we dont need so much oil.
+   - same type `vegetable oil` used for marination. `2 tbsp` oil. heat it first. since we already add oil in marination and also mutton may have fat , we can avoid oil at this step.
    - add `marinated` mutton
-   - upto max of `150-200ml` water. this is a ball park estimate. we will again roast the mutton , so adding too much in this step increases the cooking time in next steps.
+   - add upto max of `150-200ml` water. this is a ball park estimate. we will again roast the mutton , so adding too much in this step increases the cooking time in subsequent frying step.
    - `3 to 4 max` whistles on medium flame should be enough. 
    - **as a modification, after adding the marinated mutton , we can cook on high flame until water from mutton comes out, and then follow the next steps from adding water(good if we can add hot water)**
- - For frying (used cast-iron kadai) ; we can use non-stick also
+ - For frying (I use cast-iron kadai) ; we can use non-stick also
     - `2 sprigs` of `curry leaves`
     - `3 green chilli` . cut them into two halves and then slit them
     - `4` red chilli . tear them into `3 or 4` pieces
