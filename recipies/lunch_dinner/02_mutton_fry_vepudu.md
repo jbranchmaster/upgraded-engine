@@ -2,25 +2,24 @@
 Eaten as a side with rice and dal. Cooked with cast iron kadai or non-stick pan. No onions needed.
 
 # Core Ingredients
-- Serves `4` people for `500g mutton`. the ingredients are for `500gm` mutton
-- For marination, the original recipe calls for overnight marination. however we can marinate for 2 hours if time is a constraint
-   - washed `500 grams mutton` and add below items
+- Serves `4` people with `500g mutton`.
+- For marination, the original recipe calls for overnight marination. however we can marinate for 1-2 hours.
+   -  clean and wash `500 grams mutton` and add below items
+   -  `2 tbsp` of `curd`
    -  `2 tbsp` of  `red chilli powder`
-   -  `2tbsp` of `dhanya powder` (corriander powder)
+   -  `1tbsp` of `dhanya powder` (corriander powder)
    -  `salt` to taste
    -  `1tbsp` of `turmeric`
    -  `2tbsp` of `vegetable oil`. I use `groundnut oil`
    -  mix all and refrigerate the marinate
  - For cooking on pressure cooker
-   - same type `vegetable oil` used for marination. `2 tbsp` oil. heat it first. since we already add oil in marination and also mutton may have fat , we can avoid oil at this step.
-   - add `marinated` mutton
-   - add upto max of `150-200ml` water. this is a ball park estimate. we will again roast the mutton , so adding too much in this step increases the cooking time in subsequent frying step.
-   - `3 to 4 max` whistles on medium flame should be enough. 
-   - **as a modification, after adding the marinated mutton , we can cook on high flame until water from mutton comes out, and then follow the next steps from adding water(good if we can add hot water)**
+   - heat the marinated mutton on stove with open lid until water comes out and evaporates
+   - after all the water evaporates, add `150-200ml` of hot water and cook inside a pressure cooker
+   - initally cook on high flame for the first whistle and then on **3 medium flames** 
  - For frying (I use cast-iron kadai) ; we can use non-stick also
     - `2 sprigs` of `curry leaves`
-    - `3 green chilli` . cut them into two halves and then slit them
-    - `4` red chilli . tear them into `3 or 4` pieces
+    - `2-3 green chilli` . cut them into two halves and then slit them
+    - `3` red chilli . tear them into `3 or 4` pieces
     - `1tbsp` of `ginger and garlic` paste
     - `1 sprig` of `curry leaves` and `2 sprig` `corriander leaves` for garnishing
     - `garam masala`
