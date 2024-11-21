@@ -24,4 +24,4 @@ This reciepe is made from butternut pumpkin. Goes well with rusk during winters.
    - Grind the pulp into fine paste
    - Transfer back the paste into the vessel containing vegetable stock and check for `**salt and spiciness**` , add more if required
    - Mix the ground paste and vegetable stock such that there are no pulps
-   - Serve hot with rusk.
+   - Serve hot with rusk
