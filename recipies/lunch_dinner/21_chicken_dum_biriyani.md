@@ -5,9 +5,9 @@ Hyderabadi style biriyani. Eaten with raitha and mirchi ka salan
 
 # Core Ingredients
  - This recipie is with `500 grams chicken`  , with each piece weighing 60-75 grams
- - 1 medium `onion`. Sliced and fried or dry roast onion slices on a frying pan without any oil.
- - 10 sprigs `corriander leaves`. these must be chopped into small pieces.
- - 10 sprigs `pudina / mint leaves`. these must be chopped into small pieces.
+ - 1 medium `onion`. The onion can be sliced and fried in oil or dry roasted on a frying pan without any oil.
+ - 10 sprigs `corriander leaves`. These must be chopped into small pieces.
+ - 10 sprigs `pudina / mint leaves`. These must be chopped into small pieces.
  - 200 grams curd. Can whip it a bit.
  - 2 spoon `vegetable/cooking oil`
  - 2 spoon `ghee`
