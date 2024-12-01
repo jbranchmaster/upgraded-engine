@@ -40,8 +40,9 @@ Hyderabadi style biriyani. Eaten with raitha and mirchi ka salan
 ## Dum cooking
 Dum means 'to keep food on slow fire' and pukht means 'process of cooking', thus meaning 'cooking on slow fire'
  - Boil 150ml of water and add it to the pot in which contains previosly marinated chicken 
- - Take the soaked rice and boil it with **spices or rice masala if present**
- - Layer the rice in 3 stages into the handi. The lower most layer should have cooked only 20-30% , while the top most layer should have cooked upto 75%
+ - Take the soaked rice and boil it with **spices or rice masala if present** for about ~5 minutes
+ - Take the boiling rice and layer the rice in 3 stages into the handi. The lower most layer should have cooked only 20-30% , while the top most layer should have cooked upto 75%
+ - Layering process will take ~8-10 minutes, by then rice would have achieved various statges of cooking
  - Spread `2-3 spoons of ghee` to the side and an centre of handi
  - Close the pot and cook with sealed lid for about `35 minutes` on low flame
  - Open the pot and check for water at the bottom. If there's additional water, cook for another `3- 5 minutes` with closed lid on high flame
