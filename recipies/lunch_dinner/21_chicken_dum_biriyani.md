@@ -21,7 +21,7 @@ Hyderabadi style biriyani. Eaten with raitha and mirchi ka salan
      - `salt`
      - `1 clove`
      - `1 inch cinnamon`
-     - `3 pepper pods`
+     - `1 pepper pod`
      - `little shahjeera`
      - `little jeera seeds(cumin)`
      - `1 elachi`
