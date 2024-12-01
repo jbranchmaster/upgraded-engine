@@ -5,6 +5,7 @@ Hyderabadi style biriyani. Eaten with raitha and mirchi ka salan
 
 # Core Ingredients
  - This recipie is with `500 grams chicken`  , with each piece weighing 60-75 grams
+ - Basmati rice. Soak for only 30mins and not more.
  - 1 medium `onion`. The onion can be sliced and fried in oil or dry roasted on a frying pan without any oil.
  - 10 sprigs `corriander leaves`. These must be chopped into small pieces.
  - 10 sprigs `pudina / mint leaves`. These must be chopped into small pieces.
@@ -16,6 +17,14 @@ Hyderabadi style biriyani. Eaten with raitha and mirchi ka salan
    -  `red chilli` powder
    -  `garam masala` powder
    -  `salt`
+  - **for basmatic rice (optional based on masala powder instructions)**
+     - `salt`
+     - `1 clove`
+     - `1 inch cinnamon`
+     - `3 pepper pods`
+     - `little shahjeera`
+     - `1 elachi`
+     - `Little Whole Mace/ Japatri`
 
 
 
@@ -30,9 +39,10 @@ Hyderabadi style biriyani. Eaten with raitha and mirchi ka salan
  
 ## Dum cooking
 Dum means 'to keep food on slow fire' and pukht means 'process of cooking', thus meaning 'cooking on slow fire'
- - Boil 150ml of water and add it to the pot in which contains previosly marinated chichen 
- - For rice, initially
- - Layer the rice in 3 stages into thr handi. The lower most layer should have cooked only 20-30% , while the top most layer should have cooked upto 75%
+ - Boil 150ml of water and add it to the pot in which contains previosly marinated chicken 
+ - Take the soaked rice and boil it with **spices or rice masala if present**
+ - Layer the rice in 3 stages into the handi. The lower most layer should have cooked only 20-30% , while the top most layer should have cooked upto 75%
+ - Spread `2-3 spoons of ghee` to the side and an centre of handi
  - Close the pot and cook with sealed lid for about `35 minutes` on low flame
  - Open the pot and check for water at the bottom. If there's additional water, cook for another `3- 5 minutes` with closed lid on high flame
 
