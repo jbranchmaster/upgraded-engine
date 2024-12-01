@@ -23,5 +23,11 @@ Cake made using ripe bananas
 - Follow each one in the order
 - Use a wide vessel for preparation
 - Peel the `banana` and crush them into paste using spoon or a fork. the finer , the better
-- Now add `sugar` and mix well so that sugar is dissolved. we can go with 120grams of sugar as well. 
+- Now add `sugar` and mix well so that sugar is dissolved. we can go with 120grams of sugar as well
+- Now add `2 whole eggs` and mix them well so that the odour of the egg goes away
+- Now add `flour`, `cocoa powder`, `baking powder`, `baking soda` and mix well
+- Now add `cooking oil` and mix well. Mix in cut and fold method if possible. Keeps the airi bubles in-tact.
+- Pre-heat the oven at 180 degres celsius for 10 minutes
+- Bake the cake for ~25mins at 180 degrees celcius
+- You will know that the cake is baked when you get the smell or by taking a fruit pick/sharp object and piercing the cake so see if the bottom most part is not moist
 
