@@ -8,6 +8,7 @@ Goes well with poori or chapathi as a curry.
 - 4 spoons `moong dal` soaked in  150ml water for about 30 minutes. Soak it in a vessel which can be used for cooking. **use warm water for speedier prep**
 - 1 spoon `tumeric`
 - 1 spoon `salt`
+- 1/2 spoon `red chilli` powder
 - **masala**
    - 1 inch `ginger`
    - 1 clove of `garlic`
