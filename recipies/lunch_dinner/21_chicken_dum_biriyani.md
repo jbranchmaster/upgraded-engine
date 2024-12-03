@@ -14,6 +14,7 @@ Hyderabadi style biriyani. Eaten with raitha and mirchi ka salan
  - 2 spoon `ghee`
  - **optional based on masala powder instructions**
    -  2 `green chilli` chopped into small pieces
+   -  1 inch `ginger` and 4 `garlic` made into ginger garlic paste
    -  `red chilli` powder
    -  `garam masala` powder
    -  `salt`
