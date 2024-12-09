@@ -2,6 +2,7 @@
 
 Peanuts toasting in OTG, which otherwise would have been roasted in cast-iron pan
 
+**this method needs improvementsm peanuts could have been roasted a bit more. consider 3min * 2 reps under careful observation**
 
 # Method
 - No need to pre-heat the OTG
