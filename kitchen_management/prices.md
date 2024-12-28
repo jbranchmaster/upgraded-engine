@@ -10,7 +10,7 @@
   
 * Cashew Whole(kg)
   - 800  at Kajuwala, Dec 2024
-  - 
+    
 * Dry Grapes Yellow(kg)
   - 520  at Kajuwala, Dec 2024
  
