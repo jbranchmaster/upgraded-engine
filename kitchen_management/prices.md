@@ -1,24 +1,50 @@
 # Prices
 
+## Grocery
+
+* Red Chilli Guntur (kg)
+  - 324 at Metro, Dec 2024
+
+* Idly Rice (kg)
+  - 51 at Metro, Dec 2024
+
+* Tamrind Rasoi (kg)
+  - 138 at Metro, Dec 2024
+
+  
 ## Dry Fruits
 
 * Anjeer (kg)
   - 1150 at Kajuwala, Dec 2024
 
 * Badam(kg)
-  - 780  at Kajuwala, Dec 2024
+  - 780 at Kajuwala, Dec 2024
+  - 872 by Nutraj, Dec 2024
+  - 964 at Metro, Dec 2024
   
 * Cashew Whole(kg)
-  - 800  at Kajuwala, Dec 2024
+  - 800 at Kajuwala, Dec 2024
+  - 990 at Metro, Dec 2024
     
 * Dry Grapes Yellow(kg)
-  - 520  at Kajuwala, Dec 2024
+  - 520 at Kajuwala, Dec 2024
  
 * Pumpkin Seeds(kg)
-  - 400  at Kajuwala, Dec 2024
-  - 
+  - 400 at Kajuwala, Dec 2024
+    
 * Pista Salted Whole(kg)
-  - 1000  at Kajuwala, Dec 2024
+  - 1000 at Kajuwala, Dec 2024
+  - 1110 at Metro, Dec 2024
  
 * Walnuts Loose(kg)
-  - 1400  at Kajuwala, Dec 2024
+  - 1400 at Kajuwala, Dec 2024
+
+
+## Non-veg 
+* Prawns White Whole (kg)
+  - 398 at Metro, Dec 2024
+
+
+## Vegetables 
+* Green Peas Whole (kg)
+  - 65 at Metro, Dec 2024
