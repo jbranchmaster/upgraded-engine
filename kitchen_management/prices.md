@@ -1,5 +1,14 @@
 # Prices
 
+
+## Fruits
+
+* Garlic Whole (kg)
+  - 399 at Lulu Mall, Jan 2025
+    
+* Jujube / Bear Fruit / Regi Pallu Medium  (kg)
+  - 69 at Lulu Mall, Jan 2025
+  
 ## Grocery
 
 * Freedom Sunflower Oil
@@ -51,3 +60,6 @@
 ## Vegetables 
 * Green Peas Whole (kg)
   - 65 at Metro, Dec 2024
+    
+* Lemon (kg)
+  - 89 at Lulu Mall, Jan 2025 
