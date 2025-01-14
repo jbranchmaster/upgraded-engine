@@ -3,7 +3,7 @@
 Made with vermicelli . We use Bambino Vermicelli , which is manufactured by BambinoAgro.
 
 # Core Ingredients
-- This serves 4
+- This serves 4 people
 - `1.5 cups` of raw `Bambino Vermicelli`. Each cup measures `300ml`. Can use upto `1.75` for little bigger portion sizes
 - `1:1.3 ratio of vermicelli:water` for cooking. `1.5` is the max ratio and can remain stagnant or decrease as `Vermicelli` increases
 - `2` medium sized carrots. Chop them into small pieces
