@@ -5,7 +5,7 @@ Made with vermicelli . We use Bambino Vermicelli , which is manufactured by Bamb
 # Core Ingredients
 - This serves 4
 - `1.5 cups` of raw `Bambino Vermicelli`. Each cup measures `300ml`. Can use upto `1.75` for little bigger portion sizes
-- `1:1.5 ratio of vermicelli:water` for cooking. `1.5` is the max ratio and can remain stagnant or decrease as `Vermicelli` increases
+- `1:1.3 ratio of vermicelli:water` for cooking. `1.5` is the max ratio and can remain stagnant or decrease as `Vermicelli` increases
 - `2` medium sized carrots. Chop them into small pieces
 - `1` cup of `green peas`. Each cup measures `90-100ml`. Soak them in water if they are frozen
 - `1` coin sized `ginger piece`. chop them into small pieces
