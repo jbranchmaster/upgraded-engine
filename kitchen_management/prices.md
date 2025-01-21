@@ -37,7 +37,11 @@
     
 * Dry Grapes Yellow(kg)
   - 520 at Kajuwala, Dec 2024
- 
+  - 265 at Lulu, Dec 2024
+    
+* Dry Grapes Black With Seeds (kg)
+  - 525 at Lulu, Dec 2024
+  - 
 * Pumpkin Seeds(kg)
   - 400 at Kajuwala, Dec 2024
     
