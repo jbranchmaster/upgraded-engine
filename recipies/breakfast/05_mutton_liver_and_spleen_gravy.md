@@ -25,7 +25,7 @@
   
 # Preparation
 - Keep the `marinated meat` on stove on highflame and cook with closed lid until all the water comesout and evaporates
-- Add the `masala` and `250ml` water and cook on medium to high flame for 10 minutes
+- Add the `masala` and `250ml` water and cook on medium to high flame for 10-15 minutes. This is needed for masala to soak in
 - **In between taste for salt and chilli**
 - At the end , if needed you can thichen the gravy a bit by cooking with open lid
 - Before switching off the stove, add few drops of ghee, mix well and turn off the stove
