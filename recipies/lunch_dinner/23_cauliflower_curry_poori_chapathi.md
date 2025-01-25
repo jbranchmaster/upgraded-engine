@@ -30,7 +30,7 @@ Goes well with poori or chapathi as a curry.
     
 # Preparation
  - Add `tuemeric powder` and few drops vegetable oil to the vessel with `moong dal and water`, bring it to boil and then switch to medium flame. cook with open lid
- - Let the dal cook **can test that it became soft**. this step takes 10-15 minutes
+ - Let the dal cook.  **can test that its cooked if dal turns soft**. this step takes 10-15 minutes
  - Now add `chopped veggies`, `grounded masala`,  `salt and red chilli powder` and cook for ~15 minutes with open lid
  - Transfer this vessel to another burner and proceed with seasoning in a new vessel **no need for onions to become dark brown, but they should cook well**
  - Transfer the contents of the veggies vessel into the seasoning vessel and cook for 5mins with open lid.
