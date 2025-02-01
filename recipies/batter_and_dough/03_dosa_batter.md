@@ -6,6 +6,8 @@ Dosa batter is made from `white rice` and `dosa rice` a.k.a `Boiled Rice ( Uppud
 - `Urad dal`. Add about `27 grams` of `urad dal` for i portion of rice grain mixture. Then add a handful of `channa dal` and 2 spoon `fenugreek seeds`
    - if newly bought (< 1 week), results in more batter , so add it `4:1` of i.e for 4 portions 
    - if old (> 1 week), results in lessr batter , so add `5:1` or `6:1` of i.e for 4 portions
+- Wash the rice grains mixture and soak for 7-8 hours
+- Keep the `urad dal` and `channa dal + fenugreek seeds` aside. Add water to them only 2 hours before grinding.
  
 # Ready reckoner
 |  No. of dosas | Total rice grains in grams | Boiled rice in grams | Normal rice in grams  |  Urad dal in grams | Channa Dal and Fenugreek Seeds  |
