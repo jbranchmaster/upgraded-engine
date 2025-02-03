@@ -5,7 +5,7 @@ Goes well with poori or chapathi as a curry.
 
 # Core Ingredients
 - This recipe serves 3 light eaters
-- 4 spoons `moong dal` soaked in  150ml water for about 30 minutes. Soak it in a vessel which can be used for cooking. **use warm water for speedier prep**
+- 4 spoons (**around 40grams**) `moong dal` soaked in  150ml water for about 30 minutes. Soak it in a vessel which can be used for cooking. **use warm water for speedier prep**
 - 1 spoon `tumeric`
 - 1 spoon `salt`
 - 1/2 to 1 spoon `red chilli` powder
