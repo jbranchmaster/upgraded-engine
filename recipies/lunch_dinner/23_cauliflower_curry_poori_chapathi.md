@@ -15,7 +15,7 @@ Goes well with poori or chapathi as a curry.
    - 1 `clove`
    - 1 small 1 inch `cinnamon`
    - 20% of half `raw coconut`
-   - first grind these in mixer and then add
+   - first grind these in mixer. can add little water in this step to help grinding and then add
    - 8-10 sprigs of `corriander leaves` and grind them
 - **veggies**
   - 1/2 of a medium sized `cauliflower`. cut each stalk into 2-3 pieces depending on the size
