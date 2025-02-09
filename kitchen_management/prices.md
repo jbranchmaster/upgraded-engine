@@ -23,8 +23,10 @@
   
 ## Dry Fruits
 
-* Anjeer (kg)
+* Anjeer Dried (kg)
   - 1150 at Kajuwala, Dec 2024
+  - 2325 at Lulu, Feb 2025 - jumbo size
+  - 1399 at Lulu, Feb 2025 - loose
 
 * Badam(kg)
   - 780 at Kajuwala, Dec 2024
