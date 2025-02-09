@@ -50,6 +50,7 @@
 * Pista Salted Whole(kg)
   - 1000 at Kajuwala, Dec 2024
   - 1110 at Metro, Dec 2024
+  - 1299 at Lulu, Feb 2025
  
 * Walnuts Loose(kg)
   - 1400 at Kajuwala, Dec 2024
