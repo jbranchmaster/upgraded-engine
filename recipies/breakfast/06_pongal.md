@@ -27,3 +27,6 @@ Made with rice and roasted moong dal. This preparation results in a watery ponga
   - Now add `hing` and cook until the flavour comes out
   - Now add `water` and cook for 1-2 mins. Add `turmeric powder` and move the vessel to cooker.
   - Let it cook for about `5 whistles` , all on medium flame
+  - If there's more water in pongal ,keep on stove and cook for sometime.
+  - Add `salt` to taste
+  - Before serving , add cashews and a bit of ghee.
