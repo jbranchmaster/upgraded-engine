@@ -2,9 +2,9 @@
 Made with rice and roasted moong dal. This preparation results in a watery pongal and not a solid pongal
 
 # Core Ingredients
-- This serves 4 people
--  1 `200 ml` cup of rice. Wash and keep aside. No need to soak.
--  30% `200 ml` cup of moong dal
+- This serves 4 people. In quantity its `60 grams of rice+dal` for 1 light eater.
+-  1 `200 ml` cup of rice. Wash and keep aside. No need to soak.  i.e `170 grams`
+-  30% `200 ml` cup of moong dal. i.e `80 grams`
 -  `1300-1500 ml` water. This is 5x to 6x , the volume of rice and moong dal.
 -  `10` cashews
 -  `1` green chilli. slice it into 2 vertical havles
