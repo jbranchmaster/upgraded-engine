@@ -16,6 +16,9 @@
  
 ## Grocery
 
+* Channa Dal Roasted(Kg)
+   - 300 at Metro, Apr 2025
+
 * Freedom Sunflower Oil
    - 2250 per 16 or 140 per/l at Metro, Dec 2024
      
