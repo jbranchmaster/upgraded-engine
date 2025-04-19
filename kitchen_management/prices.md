@@ -13,6 +13,7 @@
   - 149 at Metro, Apr 11th 2025 - Dasheri
   - 199 at Metro, Apr 11th 2025 - Kesar
   - 199 at Metro, Apr 11th 2025 - Alphonso
+  - 59 at Metro, Apr 11th 2025 - Totapuri
  
 ## Grocery
 
