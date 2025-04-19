@@ -5,7 +5,15 @@
     
 * Jujube / Bear Fruit / Regi Pallu Medium  (kg)
   - 69 at Lulu Mall, Jan 2025
-  
+
+* mango Varieies (kg)
+  - 149 at Metro, Apr 11th 2025 - Cherukurasam
+  - 129 at Metro, Apr 11th 2025 - Chimmarasam
+  - 179 at Metro, Apr 11th 2025 - Senduran
+  - 149 at Metro, Apr 11th 2025 - Dasheri
+  - 199 at Metro, Apr 11th 2025 - Kesar
+  - 199 at Metro, Apr 11th 2025 - Alphonso
+ 
 ## Grocery
 
 * Freedom Sunflower Oil
@@ -38,12 +46,17 @@
   - 990 at Metro, Dec 2024
     
 * Dry Grapes Yellow(kg)
+  - 399(Sweet Indian Rasins) at Lulu, Apr 2025
+  - 459(Iranian) at Lulu, Apr 2025
   - 520 at Kajuwala, Dec 2024
   - 265 at Lulu, Dec 2024
     
 * Dry Grapes Black With Seeds (kg)
-  - 525 at Lulu, Dec 2024
-  - 
+  - 525 at Lulu, Dec 2024 & Apr 2025
+
+* Dry Grapes Black With Seeds (kg)
+  - 599 at Lulu, Apr 2025
+
 * Pumpkin Seeds(kg)
   - 400 at Kajuwala, Dec 2024
     
