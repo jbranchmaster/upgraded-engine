@@ -9,7 +9,7 @@ Made of just 3 ingredients - red chilli , onion and salt. This chutney is eaten 
 # Preparation
 - Remove the chilli stalk and add it to mixer
 - Add `1` to `1.25` spoons of salt to mixer
-- Blend above in mixer to a coarse mix
+- Blend above in mixer to a coarse mix. Only after grinding `red chillies` proceed with onions.
 - Cut onions into small pieces and add them to above coarse mix
 - Grind everything until it becomes a fine paster - red chilli seeds and onions are not to be seen
 
