@@ -2,9 +2,9 @@
 Made of just 3 ingredients - red chilli , onion and salt. This chutney is eaten with dosa and idly
 
 # Core Ingredients
- - `20` Red chilli
+ - `20` Red chilli. This comes at around `16 grams`.
  - Salt to taste (used iodised crystal salt)
- - `1` large or `2` medium sized onions
+ - `1` large or `2` medium sized onions. This comes at around `100 grams`.
 
 # Preparation
 - Remove the chilli stalk and add it to mixer
