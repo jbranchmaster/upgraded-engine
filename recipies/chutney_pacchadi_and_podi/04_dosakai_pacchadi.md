@@ -20,4 +20,4 @@ Eaten with rice and bonda. Not good with roti or chapathi. The dosakai is eaten 
 - Let the kadai contents cool
 - Add the kadai contents and `salt` into mixer and grind them
 - Add `diced cucumber` and grind it such that the dices are sliced into smaller pieces. **do not make it fine paste**
-- **as an alternate, we can grind the cucumber in a `Rolu Rokali/ Mortar and Pestle Set Stone`
+- **as an alternate, we can grind the cucumber in a `Rolu Rokali/ Mortar and Pestle Set Stone`**
