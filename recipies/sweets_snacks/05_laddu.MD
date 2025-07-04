@@ -37,6 +37,6 @@ Sweet made with besan
   - switch off the stove, add `2tbsp ghee` and `elachi powder(with sugar)`, `elachi capsules` and the `boondhi` and mix gently so that `boondhi` is soaked well
 
 - Laddu Making
- - **use a dry hand for this process and avoid water**
- - they can be stored in closed containers after
- - they stay fresh for about **5 days**
+  - **use a dry hand for this process and avoid water**
+  - they can be stored in closed containers after
+  - they stay fresh for about **5 days**
