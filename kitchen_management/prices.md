@@ -2,11 +2,16 @@
 
 
 ## Fruits
+
+* Jamun / Neredu Pandu
+   - 400 at Vijeytha, June (kg)
+   - 180-200 street vendors, June (kg)
+   - 250-300 at Lulu Mal, June  (kg)
     
 * Jujube / Bear Fruit / Regi Pallu Medium  (kg)
   - 69 at Lulu Mall, Jan 2025
 
-* mango Varieies (kg)
+* mango varieties (kg)
   - 149 at Metro, Apr 11th 2025 - Cherukurasam
   - 129 at Metro, Apr 11th 2025 - Chimmarasam
   - 179 at Metro, Apr 11th 2025 - Senduran
