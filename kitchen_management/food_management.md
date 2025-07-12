@@ -3,6 +3,14 @@
 Food management - tips and techiques
 
 
+## Storage
+
+### Groundnuts
+ - Buy loose groundnuts once in 2 months
+ - Remove the ones which are little black or broken
+ - Can keep sun if needed
+ - Store in an air-tight container at room temperature
+
 ## Process
 
 * Prawns Cleaning
