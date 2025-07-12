@@ -4,12 +4,12 @@ Very easy to make. We have this for dinner instead of breakfast.
 
 # Core Ingredients
  - This makes `11` idlies
- - `1.6` cup bombay rava
+ - `1` coffee glass bombay rava. measures about 150ml of water
  - `1 to 1.5` cups of curd
  - seasoning
     - `1` red chilli
     - `few` mustard seeds
-    - `few` curry leaves. cut them into small pieces
+    - `few` curry leaves. cut them into small pieces using scissors
     - `1` spoon chana dal
 - Eno powder
 - Salt
@@ -23,8 +23,8 @@ Very easy to make. We have this for dinner instead of breakfast.
  - Add `channa dal` and let it roast a bit
  - Add `red chilli` and let it roast a bit
  - Add the `curry leaves` and roast a bit
- - Now add `bombay rava` and roast it. Do not let rava sit idle . Srit as necessary
- - Rava will turn from white to little brown
+ - Now add `bombay rava` and roast it. Do not let rava sit idle . Keep stirring as necessary
+ - Rava will turn from white to little brown. This will look like raw semiya/vermicelli in colour and also give off some smell
  - Now turn off the stove. With the retained heat it will roast further on its own  `(for pre-prep stop here and store the rava once cooled down)`
  - Wait for Rava to cool down well before adding curd
  - Add 1 to 1.5 cups of `curd` and `salt` to taste and mix well and keep this batter aside for `15` minutes
