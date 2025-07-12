@@ -2,7 +2,7 @@
 
 # Laddu
 
-Sweet made with besan
+Sweet made with besan. **it can take almost one whole day for this preparation**
 
 # Core Ingredients
  - 400 gms `besan powder`. Seieve it and keep it aside in a `vessel` which can be also used to make batter
@@ -38,5 +38,5 @@ Sweet made with besan
 
 - Laddu Making
   - **use a dry hand for this process and avoid water**
-  - they can be stored in closed containers after
+  - they can be stored in closed containers after it dries out a bit.
   - they stay fresh for about **5 days**
