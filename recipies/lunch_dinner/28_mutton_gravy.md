@@ -7,6 +7,7 @@ Mutton gravy is suitable for raagi balls.
 - Initially dry roast these to remove moisture
   - `3 tbsp` corriander seeds. roast this initially until you smell the flavour
   - add `2` cloves
+  - add `2 tspoon` pepper
   - add `1-2 inch` cinnamon
   - add `1 tspoon` shah jeera
   - add `1 tspoon` cumin seeds
