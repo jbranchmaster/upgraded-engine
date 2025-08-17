@@ -5,12 +5,12 @@ Mutton gravy is suitable for raagi balls.
 # Core Ingredients
 - This is for ~750 grams of mutton
 - Initially dry roast these to remove moisture
- - `3 tbsp` corriander seeds
- - `2` cloves
- - `1-2 inch` cinnamon
- - `1 tspoon` shan jeera
- - `1 tspoon` cumin seeds
- - `3-4` red chillies
+  - `3 tbsp` corriander seeds
+  - `2` cloves
+  - `1-2 inch` cinnamon
+  - `1 tspoon` shan jeera
+  - `1 tspoon` cumin seeds
+  - `3-4` red chillies
  - `3-5` green chillies. cut each into 2 vertical splits and then into 2 halves.
 - `2 medium` sized onions
 - `2 medium` sized tomatoes. can reduce if we want little gravy. chop them into pieces
