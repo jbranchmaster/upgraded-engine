@@ -24,7 +24,7 @@ Mutton gravy is suitable for raagi balls.
 - `salt` to taste
 
 # Preparation
-- Wash mutton and marinate it using `curd` and `tuemeric powder`. keep it aside
+- Wash mutton and marinate it using `curd` and `turmeric powder`. keep it aside
 - For masala
   - add the `roasted spices` into a mixer and grind it well
   - next add `ginger , garlic and cahews` and grind well
