@@ -13,13 +13,12 @@ Peanut chutney goes well with rava idly and also dosa.
 # Preparation
 
 - Take little cooking oil into a `kadai` and roast `red chillies`
-- Add below items to mixer and grind them
+- Add below items at once to mixer and grind them. initially pulse it 2-3 times and then  a little bit `water` if needed
    - `red chillies`
    - `salt`
    - `garlic pods`
    - `groundnuts`
    - `tamarind` along with its water. can crush the tamarind
-   - add a little bit `water` if needed
 - Seasoning
   - use the same kadai in which `red chillies` were roasted and add little `cooking oil` if needed and heat it
   - add `mustard seeds` and let it sputter
