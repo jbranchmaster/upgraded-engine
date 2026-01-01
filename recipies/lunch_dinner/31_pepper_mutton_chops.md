@@ -28,7 +28,7 @@ This recipe is for 1 kg mutton. It comes to 8 chop pieces. I used cook and serve
 - Add `masala paste` and cook for sometime.
 - Next add `mutton chops` and `tuemeric powder` and mix well.
 - Cook with closed lid for `5-10` minutes so that water from the mutton comes out
-- Once all the water comes out, add `2 spoons salt` and `curd` and `150ml` water. No need to add more water.
+- Once all the water comes out, add `2 spoons salt` and `curd` and `150ml` water. No need to add more water. The cops need not be fully submerged.
 - Transfer to cooker and cook on `3` medium whistles. To speed up, we can being the contents to boil before closing the cooker.
 - Let the contents cool and remove the cooker cover. We may notice more oil on the top, which is from the mutton fat.
 - If you want it served as gravy, stop here.
