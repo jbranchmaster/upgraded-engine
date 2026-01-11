@@ -11,12 +11,12 @@ Cake made using ripe bananas
  - 3 spoon cocoa powder
  - 2 spoon baking powder
  - 1 spoon baking soda
- - 175 grams sunflower cooking oil(`90grams`)
+ - 175 grams sunflower cooking oil(`90grams`). I also used `100grams` of Milky Mist unsalted butter.
  - 1 teaspoon `vanilla essense`. we can use 1 full of the vanilla essence cap
 
 ## Optional Ingredients
- - 5 `almonds` and  10 `half cashwes`. dry roast them and keep aside
- - 8 `raisins`
+ - 40 grams of nuts `almonds and cashwes` combined
+ - 60 grams of dry fuits `dry grapes, cherry, tuti fruti, apricot` combined
 
 
 # Preparations
